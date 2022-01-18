@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Only non-negative integer numbers.
+- text: Any integer numbers except zero.
+- text: Only zero, positive, and negative integer numbers.
+- text: Any rational numbers.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7966#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 12 Jan 2022 21:09:31 UTC
+record: -1
+selected_options:
+- 3
