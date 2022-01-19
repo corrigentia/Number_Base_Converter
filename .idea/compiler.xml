@@ -30,6 +30,26 @@
       <module name="Number_Base_Converter.Topics-BigInteger-Statements.main" target="11" />
       <module name="Number_Base_Converter.Topics-BigInteger-The_one.main" target="11" />
       <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Always_win_the_dice_game.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Predictable__random__password.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Predictable_sequence.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Pseudorandomness.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Random_generator_seed.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Roll_the_dice.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Temperature_generator.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Random-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Compare_the_results.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Existing_functions.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Fourth_root.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Fractional_part.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Heron's_formula.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Max_of_four_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-National_assembly.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Pow.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Quadratic_equation.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Sine_and_cosine.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-The_angle_between_vectors.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Math_library-Theory.main" target="11" />
       <module name="Number_Base_Converter.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

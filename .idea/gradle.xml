@@ -40,6 +40,26 @@
             <option value="$PROJECT_DIR$/Topics/BigInteger/Statements" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/The one" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Always win the dice game" />
+            <option value="$PROJECT_DIR$/Topics/Random/Predictable  random  password" />
+            <option value="$PROJECT_DIR$/Topics/Random/Predictable sequence" />
+            <option value="$PROJECT_DIR$/Topics/Random/Pseudorandomness" />
+            <option value="$PROJECT_DIR$/Topics/Random/Random generator seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Roll the dice" />
+            <option value="$PROJECT_DIR$/Topics/Random/Temperature generator" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Compare the results" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Existing functions" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fractional part" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/National assembly" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Pow" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

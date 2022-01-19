@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Rounding with a given precision/out/
+/Topics/BigDecimal/Rounding with a given precision/out/production/classes/
+/Topics/BigInteger/Exabytes/out/
+/Topics/BigInteger/Exabytes/out/production/classes/
+/Topics/BigInteger/Max/out/
+/Topics/BigInteger/Max/out/production/classes/
+/Topics/BigInteger/Percentage/out/
+/Topics/BigInteger/Percentage/out/production/classes/

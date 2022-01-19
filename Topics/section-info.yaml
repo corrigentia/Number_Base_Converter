@@ -1,3 +1,5 @@
 content:
 - BigInteger
 - BigDecimal
+- The Math library
+- Random
